@@ -1,0 +1,4 @@
+container:
+ image: okugario/test:v2
+
+replicaCount: 1
